@@ -1,6 +1,6 @@
 ---
 widget: hero
-widget_id: test
+widget_id: Home Page
 headless: true
 weight: 10
 title: Liu Research Group
